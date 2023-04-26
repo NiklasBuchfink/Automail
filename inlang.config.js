@@ -15,7 +15,7 @@ export async function defineConfig(env) {
   );
 
   const pluginConfig = {
-      pathPattern: "src/data/languages/{language}.json",
+      pathPattern: "./src/data/languages/{language}.json",
   };
 
   return {
