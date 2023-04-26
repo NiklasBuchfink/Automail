@@ -13,7 +13,7 @@
     ]
   },
   "keys": {
-    "meta_scriptDescription": "Extra parts for Anilist.co",
+    "$meta_scriptDescription": "Extra parts for Anilist.co",
     "$loading": "Loading...",
     "$searching": "Searching...",
     "$load_more": "Load More",
