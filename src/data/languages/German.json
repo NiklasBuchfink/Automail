@@ -3,12 +3,12 @@
 		"language": "Deutsch",
 		"language_english": "German",
 		"locale": "de-DE",
-		"fallback": ["English"],
+		"fallback": "English",
 		"maintainer": "Koopz",
 		"maintainer_link": "https://anilist.co/user/Koopz/",
 		"discussion_link": "",
 		"notes": "",
-		"translators": ["Koopz","danieldamn"]
+		"translators": "Koopz, danieldamn"
 	},
 	"keys": {
 "$meta_scriptDescription": "Erweiterungen für Anilist.co",
