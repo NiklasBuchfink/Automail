@@ -15,6 +15,7 @@ export async function defineConfig(env) {
 		plugins: [pluginJson({ 
 			pathPattern: 'src/data/languages/{language}.json',
 			variableReferencePattern: ["{", "}"],
+			ignore: ['raw_keys.json']
 		}), standardLintRules()]
 	};
 }
